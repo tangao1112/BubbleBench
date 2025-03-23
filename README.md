@@ -16,7 +16,7 @@ This repository contains three distinct datasets related to bubble images: **Ann
 
 ## Defocused Bubble Dataset
 - **Description**: 1,000 defocused bubble samples were selected from the annotated bubble dataset to create this dataset. It is mainly used to compare the ability of different models in edge detection of defocused bubbles.
-- **Dataset Construction**: Randomly extracted 1000 discrete bubbles from the annotated dataset using the provided code (path: `Experimental Dataset\defocused bubbles`).
+- **Dataset Construction**: Randomly extracted 1000 discrete bubbles from the annotated dataset using the provided code (path: `Experimental Dataset/defocused bubbles`).
 
 ---
 
