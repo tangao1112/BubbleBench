@@ -25,7 +25,7 @@ This repository contains three distinct datasets related to bubble images: **Ann
 - **Dataset Structure**:
   - Total images: 180 (60 images for each porosity: ε = 0.1, 0.15, 0.2)
   - Formats: COCO dataset format and Stardist/Splinedist-compatible formats.
-- **Validation**: The distribution characteristics of bubble area fraction (φ) in both experimental and simulated images are compared in Figure A4.
+- **Validation**: The distribution characteristics of bubble area fraction (φ) in both experimental and simulated images are compared in Figure A4 ( Appendix II).
 
 ---
 
