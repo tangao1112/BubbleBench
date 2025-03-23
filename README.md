@@ -1,5 +1,5 @@
 # BubbleBench: Bubble Image Datasets
-This repository contains three distinct datasets related to bubble images: **Annotated Bubble Dataset**, **Defocused Bubble Dataset**, and **Simulated Bubble Dataset**. Below is a detailed description of each dataset.
+This repository contains three distinct datasets related to bubble images: **Annotated Bubble Dataset**, **Defocused Bubble Dataset**, and **Simulated Bubble Dataset**. The dataset can be viewed from the branch (master). Below is a detailed description of each dataset.
 
 ---
 
