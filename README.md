@@ -32,7 +32,7 @@ This repository contains three distinct datasets related to bubble images: **Ann
 ## Publication
 For more details, please refer to our publication:  
 **Cai T, Tang A, Xu R, et al.** *Balanced Deep Learning-Based Bubble Segmentation: Model Comparison, Optimization, and Application in Microbubble Detection.*  
-[Read the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5142422)  
+[Read the paper](https://doi.org/10.1016/j.flowmeasinst.2025.102907)  
 
 If this work inspires you, please cite our paper!
 
